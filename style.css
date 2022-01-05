@@ -1,5 +1,6 @@
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .topbanner{
     background-image: url(images/top-banner.png);
@@ -29,4 +30,9 @@ span{
     color: white;
     font-weight: 500;
     border-radius: 10%;
+}
+.dream_big{
+    background-image: url(images/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
 }
